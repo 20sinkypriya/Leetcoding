@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 class Solution {
     public int maxUniqueSplit(String s) {
         return backtrack(0, s, new HashSet<>());

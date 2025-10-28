@@ -11,7 +11,7 @@
 
 
 import java.util.Scanner;
-public class PROJECT {
+public class Guess_a_number {
     public static void project() {
         Scanner sc = new Scanner(System.in);
         int num = (int) (Math.random() * 100) + 1;

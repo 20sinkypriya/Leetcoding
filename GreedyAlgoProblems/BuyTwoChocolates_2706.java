@@ -25,6 +25,8 @@ Constraints:
 1 <= money <= 100
 */
 
+import java.util.Arrays;
+
 class Solution {
     public int buyChoco(int[] prices, int money) {
         Arrays.sort(prices);

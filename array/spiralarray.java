@@ -2,7 +2,7 @@
 
 package array;
 import java.util.*;
-public class array_2D_hw1 {
+public class spiralarray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print(("Number of rows: "));
